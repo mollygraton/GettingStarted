@@ -10,7 +10,7 @@ pages](https://help.github.com/) are also very good.
 
 ## FAQ
 
-* [HELLO What is Git? And GitHub?](#whatisgit)
+* [HELLO hey hahhaWhat is Git? And GitHub?](#whatisgit)
 * [Slow down. What is a "versioning system"?](#versioning)
 * [Who am I? And how did I get here?](#seriouslylost)
 * [How do I contribute to a project on GitHub?](#contributing)
