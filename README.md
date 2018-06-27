@@ -10,7 +10,7 @@ pages](https://help.github.com/) are also very good.
 
 ## FAQ
 
-* [What is Git? And GitHub?](#whatisgit)
+* [HELLO What is Git? And GitHub?](#whatisgit)
 * [Slow down. What is a "versioning system"?](#versioning)
 * [Who am I? And how did I get here?](#seriouslylost)
 * [How do I contribute to a project on GitHub?](#contributing)
@@ -46,7 +46,7 @@ You will also need the unix command git to work on your local machine. 
 ----------------------------------------------------------------------
 #### <a name="versioning"></a>Slow down. What is a "versioning system"?
 
-Ah, sorry. Imagine you are working on a document, and you want to save your old versions in case you want to go back to one of them if your plans change, or if your computer breaks down. You'd end up with a series of files called, for example, ms.v1.tex, ms.v2.tex, ms.v3.tex, ms.final.tex, ms.final2.tex, ms.submitted.tex and so on. A versioning system is a computer program that does this for you. It allows you to work on one file, ms.tex, while keeping track of all your old versions. It allows you to go back to them if you want. It also handles that situation where your collaborator makes some changes and sends you ms.v1.pjm.tex, <em>after</em> you have moved on to ms.v2.tex: it <em>merges</em> the two files together for you. Let's compare some basic usage of the git versioning system with your old way of doing things.
+Ah, sorry. Imagine you are working on a DOCUMENT, and you want to save your old versions in case you want to go back to one of them if your plans change, or if your computer breaks down. You'd end up with a series of files called, for example, ms.v1.tex, ms.v2.tex, ms.v3.tex, ms.final.tex, ms.final2.tex, ms.submitted.tex and so on. A versioning system is a computer program that does this for you. It allows you to work on one file, ms.tex, while keeping track of all your old versions. It allows you to go back to them if you want. It also handles that situation where your collaborator makes some changes and sends you ms.v1.pjm.tex, <em>after</em> you have moved on to ms.v2.tex: it <em>merges</em> the two files together for you. Let's compare some basic usage of the git versioning system with your old way of doing things.
 
 <table>
   <tbody>
@@ -273,7 +273,7 @@ As you might have guessed, git pull is actually a shortcut to two commands one a
 ----------------------------------------------------------------------
 #### <a name="seriouslylost"></a>Who am I? And how did I get here?
 
-Your name should be written on your "profile" page, which you can reach by going to the [GitHub home
+Your name should be written on your "profile" page, it is, which you can reach by going to the [GitHub home
 page](https://github.com/) and clicking on the little icon in the very top right hand corner of the page. It's a
 good idea to enter your full name (and preferably some other public details about yourself) so that peeple can
 find you and communicate with you on GitHub.
